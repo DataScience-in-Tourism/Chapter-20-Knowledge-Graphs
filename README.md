@@ -1,6 +1,7 @@
 # Chapter 20: Knowledge Graphs
 
 ## Constructing, Completing, and Effectively Applying Knowledge Graphs in Tourism
+## http://www.datascience-in-tourism.com/
 
 ***Mayank Kejriwal***
 * University of Southern California
